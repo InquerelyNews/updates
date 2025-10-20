@@ -4,8 +4,8 @@ This folder keeps every important update and announcement about Inquerely.
 
 ## 📅 Latest Releases
 
-- [v2.1.0 – UI/UX Improvements](./2024/v2.1.0-ui-improvements.md)
-- [v2.0.5 – Mapbox Integration](./2024/v2.0.5-mapbox-integration.md)
+- [v2.1.0 – UI/UX Improvements](./updates/2024/v2.1.0-ui-improvements.md)
+- [v2.0.5 – Mapbox Integration](./updates/2024/v2.0.5-mapbox-integration.md)
 
 ## 🔔 How to Stay in the Loop
 
